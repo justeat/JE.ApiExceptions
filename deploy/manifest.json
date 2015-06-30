@@ -1,0 +1,13 @@
+{
+    "scripts":  {
+                    "version":  1
+                },
+    "feature":  {
+                    "name":  "apiexceptions",
+                    "role":  "library"
+                },
+    "build":  {
+                  "solution":  "JE.ApiExceptions.sln",
+                  "mainproject":  "JE.ApiExceptions\\JE.ApiExceptions.csproj"
+              }
+}
