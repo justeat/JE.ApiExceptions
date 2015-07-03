@@ -1,30 +1,21 @@
-# Build Scripts
+# JE.ApiExceptions
 
-## Getting Started
+## The point
 
-1. Make sure the sample works
+### TL;DR
+Counting and logging exceptions are things every one of our APIs should do. Preferably, in the same way! This does that.
 
-```
-git clone git@github.je-labs.com:sys-automation/deploymentscripts.git c:\justeat\bootstrapping\deploymentscripts
-git clone git@github.je-labs.com:sys-automation/buildscripts.git  c:\justeat\bootstrapping\buildscripts
-git clone git@github.je-labs.com:sys-automation/JE.ApiExceptions.git c:\_github\JE.ApiExceptions
+### In detail
 
-cd c:\_github\JE.ApiExceptions
 
-.\build.ps1
-.\package.ps1
-.\deploy.ps1
-```
+### Features
 
-2. Add your application code
-  1. solution file should be at the root of the project
-  2. projects should be in the src folder
+### Getting started
 
-3. Update the buildscripts and deployscripts configuration
-    1. [deploy/manifest.json](deploy/manifest.json)
-    2. [deploy/secure](deploy/secure) - add your connection strings, or delete this folder
-    3. [deploy/configs](deploy/configs) - add your app config, or delete this folder
-    4. [version.txt](version.txt) - your application version number in the format `^\d+\.\d+\.\d+$`
+### How to contribute
 
-4. Use the [Build Scripts Master](http://ci.je-labs.com/admin/editBuild.html?id=template:NetBuildScriptsMaster) to create a Team City Build Configuration
+See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+### How to release
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 

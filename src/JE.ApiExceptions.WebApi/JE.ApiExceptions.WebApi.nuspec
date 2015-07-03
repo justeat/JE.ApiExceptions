@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://github.com/justeat/JE.ApiExceptions/LICENSE</licenseUrl>
+    <projectUrl>http://github.com/justeat/JE.ApiExceptions</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>http://github.com/justeat/JE.ApiExceptions/CHANGELOG.md</releaseNotes>
+    <copyright>Copyright JUSTEAT 2015</copyright>
+    <tags>webapi exception</tags>
+  </metadata>
+</package>

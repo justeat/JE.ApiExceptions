@@ -5,9 +5,11 @@ using System.Globalization;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Web.Http.ExceptionHandling;
 
-namespace JE.ApiExceptions
+namespace JE.ApiExceptions.WebApi
 {
+    /// <remarks>This is an internal class inside WebApi, and copied here so we can use it.</remarks>
     public class CompositeExceptionLogger : IExceptionLogger
     {
         private readonly IExceptionLogger[] _loggers;
