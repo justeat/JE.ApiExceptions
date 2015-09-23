@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{2EC480A8-BA7F-46D7-9BAB-0B1684A868F1}"
 	ProjectSection(SolutionItems) = preProject
@@ -16,7 +16,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JE.ApiExceptions.WebApi", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JE.ApiExceptions.WebApi.NLog", "src\JE.ApiExceptions.WebApi.NLog\JE.ApiExceptions.WebApi.NLog.csproj", "{FC5C002B-5439-4758-8BBE-BE8E2D9EB6CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JE.ApiExceptions.StatsD", "src\JE.ApiExceptions.StatsD\JE.ApiExceptions.StatsD.csproj", "{D370D9F4-B51B-4578-876E-2D4765F339B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JE.ApiExceptions.WebApi.StatsD", "src\JE.ApiExceptions.WebApi.StatsD\JE.ApiExceptions.WebApi.StatsD.csproj", "{D370D9F4-B51B-4578-876E-2D4765F339B6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JE.ApiExceptions.Tests", "src\JE.ApiExceptions.Tests\JE.ApiExceptions.Tests.csproj", "{A75CD09F-0519-4EBB-A394-71CDF68039DF}"
 EndProject

@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using System.Web.Http.ExceptionHandling;
 using JustEat.StatsD;
 
-namespace JE.ApiExceptions.StatsD
+namespace JE.ApiExceptions.WebApi.StatsD
 {
     public class StatsDExceptionLogger : ExceptionLogger
     {

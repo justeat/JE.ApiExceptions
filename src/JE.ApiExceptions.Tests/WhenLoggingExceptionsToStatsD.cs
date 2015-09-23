@@ -1,7 +1,7 @@
 ﻿using System.Text.RegularExpressions;
 using FakeItEasy;
 using FakeItEasy.ExtensionSyntax.Full;
-using JE.ApiExceptions.StatsD;
+using JE.ApiExceptions.WebApi.StatsD;
 using JustEat.StatsD;
 using Xunit;
 

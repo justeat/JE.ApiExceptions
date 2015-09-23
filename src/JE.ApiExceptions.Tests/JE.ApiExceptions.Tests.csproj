@@ -93,7 +93,7 @@
     <Compile Include="WhenLoggingExceptionsToStatsD.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\JE.ApiExceptions.StatsD\JE.ApiExceptions.WebApi.StatsD.csproj">
+    <ProjectReference Include="..\JE.ApiExceptions.WebApi.StatsD\JE.ApiExceptions.WebApi.StatsD.csproj">
       <Project>{D370D9F4-B51B-4578-876E-2D4765F339B6}</Project>
       <Name>JE.ApiExceptions.WebApi.StatsD</Name>
     </ProjectReference>
