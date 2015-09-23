@@ -7,8 +7,8 @@
     <ProjectGuid>{D370D9F4-B51B-4578-876E-2D4765F339B6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>JE.ApiExceptions.StatsD</RootNamespace>
-    <AssemblyName>JE.ApiExceptions.StatsD</AssemblyName>
+    <RootNamespace>JE.ApiExceptions.WebApi.StatsD</RootNamespace>
+    <AssemblyName>JE.ApiExceptions.WebApi.StatsD</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
