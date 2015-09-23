@@ -12,6 +12,6 @@
     <description>$description$</description>
     <releaseNotes>http://github.com/justeat/JE.ApiExceptions/CHANGELOG.md</releaseNotes>
     <copyright>Copyright JUSTEAT 2015</copyright>
-    <tags>webapi exception-handling exceptions</tags>
+    <tags>webapi exception-handling exceptions metrics statsd diagnostics statistics</tags>
   </metadata>
 </package>
