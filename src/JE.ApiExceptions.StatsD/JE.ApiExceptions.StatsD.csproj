@@ -30,8 +30,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="JustEat.StatsD, Version=1.0.0.96, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\JustEat.StatsD.1.0.0.96\lib\JustEat.StatsD.dll</HintPath>
+    <Reference Include="JustEat.StatsD, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\JustEat.StatsD.1.0.3.15\lib\net452\JustEat.StatsD.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
